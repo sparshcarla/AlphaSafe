@@ -1,9 +1,11 @@
 ##Alpha Secure
 
 #Description
+
 the goal of this project is to provide a mobile application that can tell if a user is in danger using environmental information, and notify authority if need be.
 
 #Scope
+
 The alpha-sec will use information from the user's environment to approximate the threat state of the user. The system will use voice data & motion data as key factors in making these predictions. The information collected are sent to a server for further analysis and threat response responsibility.
 The control centre system will consist of a map showing all active users and their current threat status in real time.
 
